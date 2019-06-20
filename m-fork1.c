@@ -7,7 +7,7 @@
 int main(void)
 {
   int i;
-  int n = 4;
+  int n = 5;
   
   int childpid;
 
